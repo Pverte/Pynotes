@@ -1,6 +1,6 @@
 """
  project for school,
-% = Piverte
+% = Pverte
 £ = Luna
 $=terminé
 Project :
@@ -314,7 +314,7 @@ def moyclass(ID=None):
 def start(): #Fonction de départ pour accueillir les utilisateurs
   print("Bienvenue sur Pynotes ! Le logiciel en pythonthon pour mettre des notes")
   time.sleep(0.5)
-  print("Codé par Nicola D'Eu et Luna Fortaner ©")
+  print("Codé par Pverte et Luna Fortaner ©")
   principMenu()
 
 def infos(): #petite fonction pour expliquer ce qu'est le code et comment l'utiliser
